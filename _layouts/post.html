@@ -8,7 +8,9 @@ layout: default
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} | <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %} | <span>Location: <a href="/{{page.categories}}/">{{ page.categories }}</a></span> <a href="http://maps.google.com/maps?q={{ page.lat }},{{ page.long }}" class="button">Map It</a> </span></p>
   </header>
 
-  <p><img src="{{ site.url }}/assets/images/{{ page.imgurl }}" alt="{{ page.title }} - {{ site.title }}" /></p>
+  {% unless page.imgurl == null %}
+    <p><img src="{{ site.url }}/assets/images/{{ page.imgurl }}" alt="{{ page.title }} - {{ site.title }}" /></p>
+  {% endunless %}
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
