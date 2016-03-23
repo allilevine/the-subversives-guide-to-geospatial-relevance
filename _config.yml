@@ -8,8 +8,7 @@
 # Site settings
 title: The Subversive's Guide to Geospatial Relevance
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  The Subversive's Guide to Geospatial Relevance is a collection of points of interest that challenge how we define historical significance.
+description: The Subversive's Guide to Geospatial Relevance is a collection of points of interest that challenge how we define historical significance.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thesubversivesguideto.space" # the base hostname & protocol for your site
 twitter_username: allilevine
