@@ -4,7 +4,7 @@ title: Contribute
 permalink: /contribute/
 ---
 
-<a href="https://github.com/allilevine/allilevine.github.io" target="_blank">Fork the project on Github</a> (translations welcome) or submit a point of interest below.
+<a href="https://github.com/allilevine/the-subversives-guide-to-geospatial-relevance" target="_blank">Fork the project on Github</a> (translations welcome) or submit a point of interest below.
 
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://allison79.typeform.com/to/uHVBKQ" data-text="Contribute to The Subversive&#039;s Guide to Geospatial Relevance" style="width:100%;height:500px;"></div>

@@ -2,7 +2,7 @@
 
 The Subversive’s Guide to Geospatial Relevance is a collection of points of interest that challenge how we define historical significance. It’s like a tour guide, but instead of pointing out the usual landmarks, we’re gathering objects, places, and journeys that highlight contributions by people that aren’t usually recognized, either because they’re from a marginalized group or because the established view of history would rather forget the roots of change.
 
-The Guide is live at [allilevine.github.io](https://allilevine.github.io/).
+The Guide is live at [thesubversivesguideto.space](http://thesubversivesguideto.space/).
 
 To add a city, add a folder named for that city to the root directory. Add an index.html file to the folder that includes the following:
 
